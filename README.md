@@ -50,7 +50,7 @@
    src="https://img.shields.io/badge/MYSQL-808080?style=for-the-badge&logo=mysql&logoColor=005C84"/>
   <!-- sqlite -->
   <img 
-   src="https://img.shields.io/badge/SQLITE-808080?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+   src="https://img.shields.io/badge/SQLITE-808080?style=for-the-badge&logo=javascript&logoColor=black"/>
   <!-- bootstrap -->
   <img 
    src="https://img.shields.io/badge/BOOTSTRAP-808080?style=for-the-badge&logo=bootstrap&logoColor=563D7C"/>
