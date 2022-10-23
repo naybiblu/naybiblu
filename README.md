@@ -27,6 +27,13 @@
   <!-- mongodb -->
   <img 
    src="https://img.shields.io/badge/MONGODB-00008B?style=for-the-badge&logo=mongodb&logoColor=4EA94B"/>
+  <!-- github pages -->
+  <img 
+   src="https://img.shields.io/badge/GITHUB PAGES-00008B?style=for-the-badge&logo=Github%20Pages&logoColor=7B36ED"/>
+  <!-- railway -->
+  <img 
+   src="https://img.shields.io/badge/RAILWAY-00008B?style=for-the-badge&logo=railway&logoColor=black"/>
+  
 </p>
 <p align="center">
   <!-- json -->
@@ -38,8 +45,17 @@
   <!-- java -->
   <img 
    src="https://img.shields.io/badge/JAVA-808080?style=for-the-badge&logo=openjdk&logoColor=ED8B00"/>
+  <!-- mysql -->
+  <img 
+   src="https://img.shields.io/badge/MYSQL-808080?style=for-the-badge&logo=mysql&logoColor=005C84"/>
   <!-- sqlite -->
   <img 
    src="https://img.shields.io/badge/SQLITE-808080?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <!-- bootstrap -->
+  <img 
+   src="https://img.shields.io/badge/BOOTSTRAP-808080?style=for-the-badge&logo=bootstrap&logoColor=563D7C"/>
+  <!-- unity -->
+  <img 
+   src="https://img.shields.io/badge/UNITY-808080?style=for-the-badge&logo=unity&logoColor=black"/>
 </p>
 <hr>
