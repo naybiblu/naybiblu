@@ -32,8 +32,16 @@
    src="https://img.shields.io/badge/GITHUB PAGES-00008B?style=for-the-badge&logo=Github%20Pages&logoColor=white"/>
   <!-- railway -->
   <img 
-   src="https://img.shields.io/badge/RAILWAY-00008B?style=for-the-badge&logo=railway&logoColor=black"/>
-  
+   src="https://img.shields.io/badge/RAILWAY-00008B?style=for-the-badge&logo=railway&logoColor=white"/>
+  <!-- npm -->
+  <img 
+   src="https://img.shields.io/badge/NPM-00008B?style=for-the-badge&logo=npm&logoColor=CB3837"/>
+  <!-- md -->
+  <img 
+   src="https://img.shields.io/badge/MARKDOWN-00008B?style=for-the-badge&logo=markdown&logoColor=white"/>
+  <!-- git -->
+  <img 
+   src="https://img.shields.io/badge/GIT-00008B?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 <p align="center">
   <!-- json -->
