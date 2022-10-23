@@ -29,7 +29,7 @@
    src="https://img.shields.io/badge/MONGODB-00008B?style=for-the-badge&logo=mongodb&logoColor=4EA94B"/>
   <!-- github pages -->
   <img 
-   src="https://img.shields.io/badge/GITHUB PAGES-00008B?style=for-the-badge&logo=Github%20Pages&logoColor=7B36ED"/>
+   src="https://img.shields.io/badge/GITHUB PAGES-00008B?style=for-the-badge&logo=Github%20Pages&logoColor=white"/>
   <!-- railway -->
   <img 
    src="https://img.shields.io/badge/RAILWAY-00008B?style=for-the-badge&logo=railway&logoColor=black"/>
@@ -44,13 +44,13 @@
    src="https://img.shields.io/badge/C%2B%2B-808080?style=for-the-badge&logo=c%2B%2B&logoColor=00599C"/>
   <!-- java -->
   <img 
-   src="https://img.shields.io/badge/JAVA-808080?style=for-the-badge&logo=openjdk&logoColor=ED8B00"/>
+   src="https://img.shields.io/badge/JAVA-808080?style=for-the-badge&logo=openjdk&logoColor=black"/>
   <!-- mysql -->
   <img 
    src="https://img.shields.io/badge/MYSQL-808080?style=for-the-badge&logo=mysql&logoColor=005C84"/>
   <!-- sqlite -->
   <img 
-   src="https://img.shields.io/badge/SQLITE-808080?style=for-the-badge&logo=javascript&logoColor=black"/>
+   src="https://img.shields.io/badge/SQLITE-808080?style=for-the-badge&logo=sqlite&logoColor=F7DF1E"/>
   <!-- bootstrap -->
   <img 
    src="https://img.shields.io/badge/BOOTSTRAP-808080?style=for-the-badge&logo=bootstrap&logoColor=563D7C"/>
