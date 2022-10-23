@@ -2,6 +2,8 @@
   naybiblu.
 </h2>
 <p align="center">
+  <img
+  src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnaybiblu1212%2Fhit-counter">
   19 y.o.<br>
   Education college student.<br>
   Self-taught developer.<br>
@@ -67,5 +69,12 @@
    src="https://img.shields.io/badge/UNITY-808080?style=for-the-badge&logo=unity&logoColor=black"/>
 </p>
 <hr>
+<p align="center">
   <img
    src="https://github-readme-stats.vercel.app/api?username=naybiblu">
+</p>
+<hr>
+<p align="center">
+  <img
+   src="https://github-readme-stats.vercel.app/api/top-langs/?username=naybiblu">
+</p>
