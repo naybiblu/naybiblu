@@ -1,4 +1,4 @@
-<h2 align="center">
+<h2 align="center" text-decoration="none" color="blue">
   naybiblu.
 </h2>
 <p align="center">
