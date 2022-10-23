@@ -55,7 +55,7 @@
    src="https://img.shields.io/badge/JAVA-808080?style=for-the-badge&logo=openjdk&logoColor=black"/>
   <!-- mysql -->
   <img 
-   src="https://img.shields.io/badge/MYSQL-808080?style=for-the-badge&logo=mysql&logoColor=005C84"/>
+   src="https://img.shields.io/badge/MYSQL-808080?style=for-the-badge&logo=mysql&logoColor=black"/>
   <!-- sqlite -->
   <img 
    src="https://img.shields.io/badge/SQLITE-808080?style=for-the-badge&logo=sqlite&logoColor=F7DF1E"/>
