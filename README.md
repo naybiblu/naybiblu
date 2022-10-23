@@ -2,7 +2,7 @@
   naybiblu.
 </h2>
 <p align="center">
-  19-y.o.<br>
+  19 y.o.<br>
   Education college student.<br>
   Self-taught developer.<br>
   Curious <strong>always<strong>.
@@ -67,3 +67,5 @@
    src="https://img.shields.io/badge/UNITY-808080?style=for-the-badge&logo=unity&logoColor=black"/>
 </p>
 <hr>
+  <img
+   src="https://github-readme-stats.vercel.app/api?username=naybiblu">
