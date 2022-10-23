@@ -8,6 +8,7 @@
   Curious <strong>always<strong>.
 </p>
 <hr>
+<!-- learned -->
 <p align="center">
   <!-- html -->
   <img
@@ -18,8 +19,15 @@
   <!-- js -->
   <img 
    src="https://img.shields.io/badge/JS-00008B?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <!-- c++ -->
+  <img 
+   src="https://img.shields.io/badge/C%2B%2B-00008B?style=for-the-badge&logo=c%2B%2B&logoColor=00599C"/>
+  <!-- java -->
+  <img 
+   src="https://img.shields.io/badge/JAVA-00008B?style=for-the-badge&logo=java&logoColor=white"/>
+  
 </p>
 <p align="center">
-test
+
 </p>
 <hr>
