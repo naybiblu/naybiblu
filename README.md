@@ -3,7 +3,7 @@
 </h2>
 <p align="center">
   <img
-  src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnaybiblu1212%2Fhit-counter">
+  src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnaybiblu1212%2Fhit-counter"><br>
   19 y.o.<br>
   Education college student.<br>
   Self-taught developer.<br>
