@@ -1,18 +1,21 @@
-### Greetings!
-Nyvhie [/ney-bi/] is the name, informally known as **james read#0534** or **naybiblu**.
-<hr>
+## 👋 Greetings! 
+Here lies some repositories of a 19-year-old college student, currently taking a bachelor's degree in secondary education, who loves coding.
 
-<!--
-**naybiblu/naybiblu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Knowledgebase
+<table>
+  <tr>
+    <td>
+      Coding
+    </td>
+    <td>
+      Design/Others
+    </td>
+  </tr>
+  <tr>
+    <td>
+      ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+    </td>
+    <td>
+    </td>
+  <tr>
+</table>
