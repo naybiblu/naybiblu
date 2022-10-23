@@ -76,7 +76,7 @@
 <hr>
 <p align="center">
   <img
-   src="https://github-readme-stats.vercel.app/api/top-langs/?username=naybiblu&theme=dark&show_icons=true&count-private=true" height="200">
+   src="https://github-readme-stats.vercel.app/api/top-langs/?username=naybiblu&theme=dark&show_icons=true&count-private=true" height="100">
 </p>
 
 <!--
