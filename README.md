@@ -31,15 +31,15 @@
 <p align="center">
   <!-- json -->
   <img 
-   src="https://img.shields.io/badge/JSON-white?style=for-the-badge&logo=json&logoColor=5E5C5C"/>
+   src="https://img.shields.io/badge/JSON-808080?style=for-the-badge&logo=json&logoColor=5E5C5C"/>
   <!-- c++ -->
   <img 
-   src="https://img.shields.io/badge/C%2B%2B-white?style=for-the-badge&logo=c%2B%2B&logoColor=00599C"/>
+   src="https://img.shields.io/badge/C%2B%2B-808080?style=for-the-badge&logo=c%2B%2B&logoColor=00599C"/>
   <!-- java -->
   <img 
-   src="https://img.shields.io/badge/JAVA-white?style=for-the-badge&logo=openjdk&logoColor=ED8B00"/>
+   src="https://img.shields.io/badge/JAVA-808080?style=for-the-badge&logo=openjdk&logoColor=ED8B00"/>
   <!-- sqlite -->
   <img 
-   src="https://img.shields.io/badge/SQLITE-white?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+   src="https://img.shields.io/badge/SQLITE-808080?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 </p>
 <hr>
