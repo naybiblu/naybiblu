@@ -71,12 +71,12 @@
 <hr>
 <p align="center">
   <img
-   src="https://github-readme-stats.vercel.app/api?username=naybiblu&theme=dark">
+   src="https://github-readme-stats.vercel.app/api?username=naybiblu&theme=dark&show_icons=true&count_private=true">
 </p>
 <hr>
 <p align="center">
   <img
-   src="https://github-readme-stats.vercel.app/api/top-langs/?username=naybiblu&theme=dark&show_icons=true&count-private=true">
+   src="https://github-readme-stats.vercel.app/api/top-langs/?username=naybiblu&theme=dark">
 </p>
 
 <!--
