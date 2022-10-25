@@ -7,7 +7,7 @@
   19 y.o.<br>
   Education college student.<br>
   Self-taught developer.<br>
-  Curious <strong>always<strong>.
+  Curious always. 
 </p>
 <hr>
 <p align="center">
