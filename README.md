@@ -26,6 +26,15 @@
   <!-- expjs -->
   <img 
    src="https://img.shields.io/badge/EXPRESS%20JS-00008B?style=for-the-badge&logo=express&logoColor=white"/>
+  <!-- svelte -->
+  <img 
+   src="https://img.shields.io/badge/svelte-00008B?style=for-the-badge&logo=svelte&logoColor=white"/>
+  <!-- tailwind -->
+  <img 
+   src="https://img.shields.io/badge/tailwindcss-00008B?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <!-- vite -->
+  <img 
+   src="https://img.shields.io/badge/vite-00008B?style=for-the-badge&logo=vite&logoColor=white"/>
   <!-- mongodb -->
   <img 
    src="https://img.shields.io/badge/MONGODB-00008B?style=for-the-badge&logo=mongodb&logoColor=4EA94B"/>
