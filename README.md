@@ -28,13 +28,13 @@
    src="https://img.shields.io/badge/EXPRESS%20JS-00008B?style=for-the-badge&logo=express&logoColor=white"/>
   <!-- svelte -->
   <img 
-   src="https://img.shields.io/badge/svelte-00008B?style=for-the-badge&logo=svelte&logoColor=white"/>
+   src="https://img.shields.io/badge/svelte-00008B?style=for-the-badge&logo=svelte&logoColor=f1413d"/>
   <!-- tailwind -->
   <img 
-   src="https://img.shields.io/badge/tailwindcss-00008B?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+   src="https://img.shields.io/badge/tailwindcss-00008B?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC"/>
   <!-- vite -->
   <img 
-   src="https://img.shields.io/badge/vite-00008B?style=for-the-badge&logo=vite&logoColor=white"/>
+   src="https://img.shields.io/badge/vite-00008B?style=for-the-badge&logo=vite&logoColor=646CFF"/>
   <!-- mongodb -->
   <img 
    src="https://img.shields.io/badge/MONGODB-00008B?style=for-the-badge&logo=mongodb&logoColor=4EA94B"/>
