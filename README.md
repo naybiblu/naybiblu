@@ -2,7 +2,9 @@
   naybiblu.
 </h2>
 <p align="center">
-  [![Better Stack Badge](https://uptime.betterstack.com/status-badges/v3/monitor/zab8.svg)](https://uptime.betterstack.com/?utm_source=status_badge)<br>
+  [![Better Stack Badge]()](https://uptime.betterstack.com/?utm_source=status_badge)<br>
+  <img
+  src="https://uptime.betterstack.com/status-badges/v3/monitor/zab8.svg"><br>
   <img
   src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnaybiblu1212%2Fhit-counter"><br>
   19 y.o.<br>
