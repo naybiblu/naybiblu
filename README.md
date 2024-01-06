@@ -2,7 +2,6 @@
   naybiblu.
 </h2>
 <p align="center">
-  [![Better Stack Badge]()](https://uptime.betterstack.com/?utm_source=status_badge)<br>
   <img
   src="https://uptime.betterstack.com/status-badges/v3/monitor/zab8.svg"><br>
   <img
